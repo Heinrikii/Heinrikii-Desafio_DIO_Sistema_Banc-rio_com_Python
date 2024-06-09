@@ -85,4 +85,4 @@ while True:
         break
 
     else:
-        print(f"{color['red']}Operação inválida, por favor selecione novamente a operação desejada!!!!!!!{color['reset']}")
+        print(f"{color['red']}Valor inválido, por favor selecione novamente ao valor correto!!!!!!!{color['reset']}")
